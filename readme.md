@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/andreyevyk/Clean-React.svg?branch=master)](https://travis-ci.org/andreyevyk/Clean-React)
+[![Coverage Status](https://coveralls.io/repos/github/andreyevyk/Clean-React/badge.svg)](https://coveralls.io/github/andreyevyk/Clean-React)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com)
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
